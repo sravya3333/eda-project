@@ -1,0 +1,25 @@
+# Data
+data.csv
+*.xlsx
+*.xls
+
+# Generated files
+eda_report.txt
+plots/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
